@@ -27,7 +27,8 @@ namespace Q_Trial
             qt.Enqueue(5);
             qt.Enqueue(6);
             qt.Enqueue(7);
-            qt.Enqueue("Some Random Stuff");
+            qt.Enqueue(8);
+            qt.Enqueue(9);
 
             foreach(Object obj in qt)
             {
