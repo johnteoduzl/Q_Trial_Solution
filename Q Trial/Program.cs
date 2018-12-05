@@ -43,6 +43,7 @@ namespace Q_Trial
                 qt.Dequeue();
             }
             Console.WriteLine("Queue is now empty");
+            Console.WriteLine("Restart the Queueing Software AFresh");
             Console.ReadKey();
 
         }
